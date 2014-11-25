@@ -1,6 +1,7 @@
-/* Basic Style */
+
 body {
-  background: #fff url('../img/bg4.jpg') center center;
+
+  background: #AB2020; 
   background-size: cover;
   color: #333;
   font-family: Lato, sans-serif;
@@ -129,7 +130,7 @@ ul li input[type=text] {
 }
 
 ul li.editMode input[type=text] {
-  display:block;
+  display: inline-block;
 }
 
 ul li.editMode label {
